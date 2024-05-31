@@ -6,6 +6,8 @@ Welcome to ToDO2.0—a project born out of my journey to learn React!
 
 ---
 
+Thank you for visiting my ToDo2.0 repository. If you have any suggestions or feedback, feel free to reach out to me.
+
 Connect with me:
 
 <div align="center">
