@@ -59,6 +59,14 @@ npm run dev
 - React.js
 - Tailwind CSS
 
+# Contributing
+
+Contributions are welcome! If you have any ideas for improvements or new features, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and submit a pull request.
+
 ---
 
 Thank you for visiting my ToDo2.0 repository. If you have any suggestions or feedback, feel free to reach out to me.
