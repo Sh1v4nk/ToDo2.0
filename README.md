@@ -1,8 +1,75 @@
 # ToDo2.0
 
-Welcome to ToDO2.0—a project born out of my journey to learn React!
+Welcome to ToDo2.0—a project born out of my journey to learn React!
 
-# Code will be uploaded soon...
+## Table of Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [How to Use](#how-to-use)
+- [Installation](#installation)
+- [Technologies Used](#technologies-used)
+- [Screenshot](#screenshot)
+- [Contributing](#contributing)
+
+## Overview
+
+ToDo2.0 is an enhanced version of my original ToDoList application, rebuilt using ReactJS and Tailwind CSS. This project includes new features such as editable tasks and background color changes when tasks are checked. The interface remains clean and intuitive, making it an excellent project for anyone looking to learn or improve their skills in React and Tailwind CSS.
+
+## Features
+
+- **Add and Remove Tasks:** Easily add tasks to your list and remove them when they're completed.
+- **Edit Tasks:** Click on a task to edit its content directly in the list.
+- **Save Tasks Locally:** Your tasks are saved to local storage, so you won't lose them even if you close the browser.
+- **Background Color Change:** When a task is checked as completed, the background color changes to visually indicate its completion.
+- **Responsive Design:** The application is responsive and works well on various devices, from desktops to smartphones.
+
+## How to Use
+
+- **Add Tasks:** Type your task in the input field and press enter to add it to the list.
+- **Edit Tasks:** Click on a task to edit its content. Press enter to save the changes.
+- **Remove Tasks:** Click on a task to mark it as completed. Click the delete button to remove it from the list.
+- **Persistence:** Your tasks are automatically saved to local storage, ensuring they persist even if you close the browser.
+
+## Installation
+
+To start using ToDo2.0, follow these steps:
+
+1. Clone the repository using the following command:
+
+```bash
+ git clone https://github.com/Sh1v4nk/ToDo2.0.git
+```
+2. Navigate to the project directory:
+```
+ cd ToDo2.0
+```
+3. Install the dependencies:
+```
+ npm install
+```
+4. Start the development server:
+```
+npm run dev
+```
+5. Open your browser and visit http://localhost:5173 to view the application or open the link provided in the terminal.
+
+## Technologies Used
+
+- React.js
+- Tailwind CSS
+
+## Screenshot
+
+Adding soon.
+
+## Contributing
+
+Contributions are welcome! If you have any ideas for improvements or new features, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and submit a pull request.
 
 ---
 
