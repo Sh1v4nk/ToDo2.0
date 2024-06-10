@@ -61,7 +61,9 @@ npm run dev
 
 ## Screenshot
 
-Adding soon.
+<div align="center">
+    <img src="https://i.ibb.co/Lz4S9Dt/image.png" alt="ToDo2.0 Screenshot" />
+</div>
 
 ## Contributing
 
