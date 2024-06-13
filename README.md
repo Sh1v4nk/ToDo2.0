@@ -52,7 +52,9 @@ To start using ToDo2.0, follow these steps:
 ```
 npm run dev
 ```
-5. Open your browser and visit http://localhost:5173 to view the application or open the link provided in the terminal.
+5. Open your browser and visit `http://localhost:5173` to view the application or open the link provided in the terminal.
+
+6. Alternatively, you can you can view a live demo of the [ToDo2.0](https://todov2-react.vercel.app/).
 
 ## Technologies Used
 
