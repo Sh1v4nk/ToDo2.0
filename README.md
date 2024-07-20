@@ -58,8 +58,8 @@ npm run dev
 
 ## Technologies Used
 
-- React.js
-- Tailwind CSS
+- [React.js](https://react.dev/)
+- [Tailwind](https://tailwindcss.com/)
 
 ## Screenshot
 
