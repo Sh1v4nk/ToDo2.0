@@ -69,7 +69,7 @@ npm run dev
 ## Screenshot
 
 <div align="center">
-    <img src="https://i.ibb.co/Lz4S9Dt/image.png" alt="ToDo2.0 Screenshot" />
+    <img src="https://i.ibb.co/Y2WN04h/image.png" alt="ToDo2.0 Screenshot" />
 </div>
 
 ## Contributing
