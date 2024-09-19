@@ -4,7 +4,6 @@
 # ToDo2.0
 
 Welcome to ToDo2.0—a project born out of my journey to learn React!
-Greetings to SnakeXenzia! Below, you'll discover details about the SnakeXenzia game and instructions on how to play.
 </div>
 
 ## Table of Contents
