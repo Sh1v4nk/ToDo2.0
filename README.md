@@ -3,6 +3,8 @@
   
 # ToDo2.0
 
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+
 Welcome to ToDo2.0—a project born out of my journey to learn React!
 </div>
 
